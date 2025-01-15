@@ -19,3 +19,38 @@ A simple and interactive React-based quiz application designed to test your know
 - **TailwindCSS**: Utility-first CSS framework for rapidly building custom designs.
 - **JSON Server**: Full fake REST API for serving quiz questions.
 - **React Context & Reducer**: Used for global state management.
+
+## Setup & Installation
+
+Follow these steps to get the project up and running on your local machine:
+
+### 1. Clone the repository
+
+Clone the repository to your local machine:
+### `git clone https://github.com/yourusername/react-quiz-app.git`
+### `cd react-quiz-app`
+
+### 2. Install dependencies
+
+Install the required dependencies:
+### `npm install`
+
+### 3. Start JSON Server
+
+The app uses a mock API to serve quiz data. To run the server, use the following command:
+### `npm run server`
+
+### 4. Start the development server
+
+To run the app locally, start the development server:
+### `npm run dev`
+
+### 5. Build the app for production
+
+To prepare the app for production, use the following command:
+### `npm run build`
+
+### 6. Preview the build
+
+You can preview the production build locally with:
+### `npm run preview`
