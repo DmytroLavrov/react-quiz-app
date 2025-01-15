@@ -54,3 +54,11 @@ To prepare the app for production, use the following command:
 
 You can preview the production build locally with:
 ### `npm run preview`
+
+## Usage
+
+Once the app is running, you'll be able to:
+
+- **Start the quiz** and answer questions.
+- **See a progress bar** showing your current question and score.
+- **Track time remaining** for each question.
