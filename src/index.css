@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.wrapper {
+  @apply flex justify-center items-center min-h-screen bg-gray-100;
+}
+
+@layer components {
+  .container-custom {
+    @apply container mx-auto max-w-3xl px-2;
+  }
+
+  .quiz-app {
+    @apply p-4 font-poppins text-center text-custom-blue rounded-lg shadow-lg bg-white;
+  }
+
+  .btn-custom {
+    @apply px-5 py-2 bg-blue-500 text-white font-semibold rounded-lg hover:bg-blue-600 transition;
+  }
+}

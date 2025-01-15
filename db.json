@@ -1,0 +1,124 @@
+{
+  "quizQuestion": [
+    {
+      "id": 1,
+      "question": "What is React?",
+      "options": [
+        "A programming language",
+        "A JavaScript library for building user interfaces",
+        "A CSS framework",
+        "A database management system"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is used to create components in React?",
+      "options": [
+        "JavaScript Functions",
+        "JavaScript Objects",
+        "CSS Styles",
+        "HTML Templates"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 3,
+      "question": "What is JSX in React?",
+      "options": [
+        "A new version of JavaScript",
+        "A syntax extension that allows writing HTML-like code in JavaScript",
+        "A tool for compiling JavaScript",
+        "A testing framework"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of 'useState' hook in React?",
+      "options": [
+        "To handle side effects in functional components",
+        "To perform DOM manipulation",
+        "To fetch data from an API",
+        "To define state in functional components"
+      ],
+      "correctAnswer": 3,
+      "points": 10
+    },
+    {
+      "id": 5,
+      "question": "What does the 'useEffect' hook do in React?",
+      "options": [
+        "It allows you to run side effects in functional components",
+        "It manages the component's state",
+        "It is used to create class components",
+        "It triggers a re-render of the component"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 6,
+      "question": "What is the purpose of 'useMemo' hook in React?",
+      "options": [
+        "To manage side effects in functional components",
+        "To define state in functional components",
+        "To optimize expensive calculations by memoizing the result",
+        "To fetch data from an API"
+      ],
+      "correctAnswer": 2,
+      "points": 10
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of 'React.Fragment'?",
+      "options": [
+        "To return multiple elements without a wrapper element",
+        "To create a CSS class in JSX",
+        "To provide a state to components",
+        "To optimize performance in React"
+      ],
+      "correctAnswer": 0,
+      "points": 10
+    },
+    {
+      "id": 8,
+      "question": "What does the 'key' prop do in React lists?",
+      "options": [
+        "It binds the value of the list item to the parent component",
+        "It is used to sort the list of items",
+        "It prevents the items from being removed from the list",
+        "It uniquely identifies each item in the list for efficient re-rendering"
+      ],
+      "correctAnswer": 3,
+      "points": 10
+    },
+    {
+      "id": 9,
+      "question": "What is 'useContext' hook used for in React?",
+      "options": [
+        "To manage local component state",
+        "To share state or functions between components without prop drilling",
+        "To fetch data from an API",
+        "To define default values for props"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the 'useReducer' hook in React?",
+      "options": [
+        "To fetch data from an API",
+        "To handle complex state logic in functional components",
+        "To manage side effects in components",
+        "To optimize component rendering"
+      ],
+      "correctAnswer": 1,
+      "points": 10
+    }
+  ]
+}
