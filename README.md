@@ -62,3 +62,4 @@ Once the app is running, you'll be able to:
 - **Start the quiz** and answer questions.
 - **See a progress bar** showing your current question and score.
 - **Track time remaining** for each question.
+ 
