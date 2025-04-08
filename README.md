@@ -20,6 +20,28 @@ A simple and interactive React-based quiz application designed to test your know
 - **JSON Server**: Full fake REST API for serving quiz questions.
 - **React Context & Reducer**: Used for global state management.
 
+## Usage
+
+Once the app is running, you'll be able to:
+
+- **Start the quiz** and answer questions.
+- **See a progress bar** showing your current question and score.
+- **Track time remaining** for each question.
+
+## Demo Walkthrough
+
+### 1. Quiz Start and Answer Selection
+![Quiz Start and Answer Selection](readme-assets/Quiz-Start-and-Answer-Selection.gif)
+
+### 2. Wrong Answer Flow
+![Wrong Answer Flow](readme-assets/Wrong-Answer-Flow.gif)
+
+### 3. Time Expiration Scenario
+![Time Expiration Scenario](readme-assets/Time-Expiration-Scenario.gif)
+
+### 4. Quiz Results
+![Quiz Results](readme-assets/Quiz-Results.gif)
+
 ## Setup & Installation
 
 Follow these steps to get the project up and running on your local machine:
@@ -54,25 +76,3 @@ To prepare the app for production, use the following command:
 
 You can preview the production build locally with:
 ### `npm run preview`
-
-## Usage
-
-Once the app is running, you'll be able to:
-
-- **Start the quiz** and answer questions.
-- **See a progress bar** showing your current question and score.
-- **Track time remaining** for each question.
-
-## Demo Walkthrough
-
-### 1. Quiz Start and Answer Selection
-![Quiz Start and Answer Selection](readme-assets/Quiz-Start-and-Answer-Selection.gif)
-
-### 2. Wrong Answer Flow
-![Wrong Answer Flow](readme-assets/Wrong-Answer-Flow.gif)
-
-### 3. Time Expiration Scenario
-![Time Expiration Scenario](readme-assets/Time-Expiration-Scenario.gif)
-
-### 4. Quiz Results
-![Quiz Results](readme-assets/Quiz-Results.gif)
